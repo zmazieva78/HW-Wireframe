@@ -61,6 +61,7 @@ nav {
     background-color: #ebebeb;
     margin-top: 15px;
     clear: both;
+    margin-bottom: 15px;
 }
 #p {
     padding: 30px;
@@ -74,4 +75,5 @@ nav {
     color: #ebebeb;
     position: relative;
     width: 495px;
+    margin: auto;
 }
